@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cris</h1>
 <h3 align="center">I am motivated by the power of technology as a tool for positive change</h3>
 
-- 🔭 I’m currently working on **#100Devs**
+- 🔭 I’m currently working @ **100Devs**
 
 - 👨‍💻 All of my projects are available at [crisjacobo.netlify.app](crisjacobo.netlify.app)
 
