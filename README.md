@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working @ **100Devs**
 
-- 👨‍💻 All of my projects are available at [crisjacobo.netlify.app](crisjacobo.netlify.app)
+- 👨‍💻 All of my projects are available at my <a href="https://crisjacobo.netlify.app">Portfolio</a>
 
-- 📫 How to reach me **crisjofficial@gmail.com**
+- 📫 Reach me through email **crisjofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
