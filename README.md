@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **#100Devs**
 
-- 👨‍💻 All of my projects are available at [crisjacobo.netlify.app](crisjacobo.netlify.app)
+- 👨‍💻 All of my projects are available at [crisjacobo.netlify.app](https://crisjacobo.netlify.app/)
 
 - 📫 How to reach me **crisjofficial@gmail.com**
 
